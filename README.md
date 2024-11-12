@@ -1,1 +1,2 @@
 # odin-recipes
+This project helped me understand how to make a webpage with html, including the process of adding images and links. I also understand git much better, though I still have a long way to go in terms of getting comfortable with it.
